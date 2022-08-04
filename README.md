@@ -8,6 +8,7 @@
 - Skill learnt in this project.
 
      - to play with text-gradient.
+     - to create the outline of text.
      - to use the combinations of position [relative and absolute] to place the object at a particular place.
      
  
